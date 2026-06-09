@@ -3,6 +3,8 @@ NEXUS is a simple application coded in Java you simple drop my custom made .app 
 Inspired by how MacOS handles applications with folders that have .app extensions and how all apps are portable. I am having fun porting this feature as a tiny program to Windows.
 It is much simpler than having to click 'next' a million times on a install wizard.
 
+**Please** read the license to view redistrubution rules/permissions.
+
 Below is a '.app' example like that you can make your own too!
 To package it right-click on Contents folder an select compress to .ZIP. Then rename the .zip to .app.
 The icon feature is not yet supported.
