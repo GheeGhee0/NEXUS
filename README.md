@@ -9,6 +9,8 @@ Below is a '.app' example like that you can make your own too!
 To package it right-click on Contents folder an select compress to .ZIP. Then rename the .zip to .app.
 The icon feature is not yet supported.
 
+Credit to Launch4J for making it possible to package a .JAR into .EXE
+
 ```
 YourApp.app
 │
